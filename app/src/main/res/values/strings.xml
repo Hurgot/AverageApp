@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AverageApp</string>
+    <string name="app_title">Average Calculator</string>
+    <string name="label_note1">Note 1: (30%)</string>
+    <string name="label_note2">Note 2: (30%)</string>
+    <string name="label_note3">Note 3: (40%)</string>
+    <string name="text_btn_calculate">calculate</string>
+    <string name="approve_text_default">Nothing has been calculated yet.</string>
+</resources>
